@@ -1,1 +1,1 @@
-link for preview - https://netflix2024.vercel.app/
+link for preview - https://netdemoflix.vercel.app/
